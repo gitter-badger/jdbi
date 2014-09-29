@@ -7,3 +7,5 @@ Documentation is at http://jdbi.org/
 There is a mailing list at http://groups.google.com/group/jdbi
 
 ![Build Status](https://travis-ci.org/brianm/jdbi.png)
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/brianm/jdbi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
